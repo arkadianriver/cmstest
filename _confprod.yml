@@ -1,2 +1,1 @@
-baseurl: "/cmstest" # the subpath of your site, e.g. /blog
-url: "arkadianriver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sharp-babbage-03413b.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
